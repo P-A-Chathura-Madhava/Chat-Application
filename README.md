@@ -52,26 +52,6 @@ This application allows for chatting for multiple persons at the same time by us
 
 - Git
 
-### Prerequisites
-
-Things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/P-A-Chathura-Madhava/e_commerce_mern_frontend.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm i
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
